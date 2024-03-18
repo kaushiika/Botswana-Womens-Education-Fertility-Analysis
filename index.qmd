@@ -1,0 +1,10 @@
+---
+title: "DACSS 603 Introduction to Quantitative Analysis Fall 2022"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+---
+
+The blog posts here are contributed by students enrolled in DACSS 603, Introduction to Quantitative Analysis.
